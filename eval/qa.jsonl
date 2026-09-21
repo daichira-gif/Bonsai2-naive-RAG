@@ -1,0 +1,2 @@
+{"id": "Q001", "question": "パスワードを何回間違えると、何分ロックされますか？", "reference_answer": "5回連続で誤入力すると15分間ロックされます。", "gold_source": "helpdesk_password.txt"}
+{"id": "Q002", "question": "VPNのE42エラーが出たとき、最初に何をすべきですか？", "reference_answer": "Acorn VPNを終了し、Wi-Fi接続を確認してから再起動します。", "gold_source": "helpdesk_vpn.txt"}

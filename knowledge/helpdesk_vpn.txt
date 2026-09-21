@@ -1,0 +1,6 @@
+社内ITサポート資料：VPN
+
+Example Works の社外接続VPNは Acorn VPN を使用する。
+接続先は vpn.example.invalid である。
+VPN接続には社内アカウントと多要素認証が必要である。
+VPNでエラー E42 が表示された場合は、まず Acorn VPN を終了し、Wi-Fi 接続を確認してから再起動する。それでも解消しない場合はITサポートへ連絡する。
