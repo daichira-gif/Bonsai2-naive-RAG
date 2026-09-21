@@ -1,0 +1,26 @@
+=== BONSAI2 NAIVE RAG BASELINE ===
+
+Recorded at:
+2026年 9月21日 月曜日 17時22分29秒 JST
+
+Git:
+6e64e7d899970b9823c5604d961f9c1a7d66eb57
+bonsai2-naive-rag-v0.1
+
+Python:
+Python 3.14.7
+/Users/daich/RAG-chatbot/.venv/bin/python
+
+Platform:
+macOS-14.8.9-arm64-arm-64bit-Mach-O
+machine: arm64
+
+Packages:
+openai: 3.16.2
+scikit-learn: 1.9.1
+
+pip check:
+No broken requirements found.
+
+Bonsai health:
+{"status": "ok", "model": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit", "model_loaded": true, "loaded_at": 1789958385, "host": "127.0.0.1", "port": 8000}
